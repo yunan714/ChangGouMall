@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99bc2f63-4f8a-4eaf-b935-8fc5abeda472" name="Default Changelist" comment="" />
+    <list default="true" id="99bc2f63-4f8a-4eaf-b935-8fc5abeda472" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-file/changgou-service-file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-file/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-file/src/main/java/com/changgou/FileApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-file/src/main/java/com/changgou/controller/FileUploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-file/src/main/java/com/changgou/file/FastDFSFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-file/src/main/java/com/changgou/util/FastDFSUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-file/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-file/src/main/resources/fdfs_client.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-common-db/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-common-db/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-common/src/main/java/com/changgou/framework/exception/BaseExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-common/src/main/java/com/changgou/framework/exception/BaseExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/changgou-service-goods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/changgou-service-goods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/GoodsApplicatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/GoodsApplicatin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/controller/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/controller/BrandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/dao/BrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/dao/BrandMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/BrandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/Impl/BrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/Impl/BrandServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,23 +50,48 @@
     </option>
   </component>
   <component name="ProjectId" id="1Ztu099d6IrZvhv23dJTYfVEfFL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/changgou-common/src/main/java/entity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learnings\JAVA\ChangGouMall\changgou-service\changgou-service-goods\src\main\java\com\changgou" />
+      <recent name="E:\Learnings\JAVA\ChangGouMall\changgou-service-api\changgou-service-goods-api\src\main\java\com\changgou\goods\pojo" />
       <recent name="E:\Learnings\JAVA\ChangGouMall\changgou-common\src\main\java\entity" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FastDFSUtil">
+    <configuration name="FastDFSUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changgou.util.FastDFSUtil" />
+      <module name="changgou-service-file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="changgou-eureka" />
       <extension name="coverage">
@@ -52,9 +105,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.FileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplicatin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.GoodsApplicatin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.goods.GoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FastDFSUtil" />
+        <item itemvalue="Spring Boot.FileApplication" />
         <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.GoodsApplicatin" />
+        <item itemvalue="Spring Boot.GoodsApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -68,21 +164,82 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585670485905</updated>
-      <workItem from="1585670487220" duration="1363000" />
+      <workItem from="1585670487220" duration="2329000" />
+      <workItem from="1585750481635" duration="4983000" />
+      <workItem from="1585802368828" duration="1912000" />
+      <workItem from="1585884193670" duration="5151000" />
+      <workItem from="1586412396212" duration="65000" />
+      <workItem from="1586440050726" duration="3792000" />
+      <workItem from="1586445756508" duration="1232000" />
+      <workItem from="1586493697681" duration="663000" />
+      <workItem from="1586510045293" duration="9012000" />
+      <workItem from="1586617437194" duration="37000" />
+      <workItem from="1586955144017" duration="6919000" />
+      <workItem from="1587101751260" duration="1631000" />
+      <workItem from="1587114730200" duration="15000" />
+      <workItem from="1587441574249" duration="684000" />
+      <workItem from="1587447938400" duration="7006000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="356" y="214" key="new project wizard" timestamp="1585671548088">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1586960769213">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="356" y="214" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585671548088" />
-    <state x="673" y="145" key="search.everywhere.popup" timestamp="1585671196672">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586960769213" />
+    <state x="613" y="193" key="FileChooserDialogImpl" timestamp="1586412438008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="673" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585671196672" />
+    <state x="613" y="193" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586412438008" />
+    <state width="1172" height="131" key="GridCell.Tab.0.bottom" timestamp="1587479508049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1172" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587479508049" />
+    <state width="1172" height="131" key="GridCell.Tab.0.center" timestamp="1587479508049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1172" height="131" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587479508049" />
+    <state width="1172" height="131" key="GridCell.Tab.0.left" timestamp="1587479508048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1172" height="131" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587479508048" />
+    <state width="1172" height="131" key="GridCell.Tab.0.right" timestamp="1587479508049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1172" height="131" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587479508049" />
+    <state width="1172" height="40" key="GridCell.Tab.1.bottom" timestamp="1587476588069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1172" height="40" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587476588069" />
+    <state width="1172" height="40" key="GridCell.Tab.1.center" timestamp="1587476588069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1172" height="40" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587476588069" />
+    <state width="1172" height="40" key="GridCell.Tab.1.left" timestamp="1587476588069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1172" height="40" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587476588069" />
+    <state width="1172" height="40" key="GridCell.Tab.1.right" timestamp="1587476588069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1172" height="40" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587476588069" />
+    <state x="533" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1587447948546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="233" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587447948546" />
+    <state x="356" y="44" key="new project wizard" timestamp="1586955301069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="44" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586955301069" />
+    <state x="673" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587476758985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="673" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587476758985" />
   </component>
 </project>

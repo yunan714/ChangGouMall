@@ -3,7 +3,6 @@ package com.changgou;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-import sun.tools.jar.resources.jar;
 import tk.mybatis.spring.annotation.MapperScan;
 
 /*****
